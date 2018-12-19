@@ -1,6 +1,6 @@
 {
-  "name": "acl_knex_mysql",
-  "version": "0.1.1",
+  "name": "acl-knex-mysql",
+  "version": "0.1.2",
   "description": "A Knex.js backend for node_acl base on https://github.com/christophertrudel/node_acl_knex support MySql",
   "keywords": [
     "middleware",
@@ -17,9 +17,9 @@
   },
   "main": "./index.js",
   "dependencies": {
-    "async": "0.9.0",
-    "lodash": "2.4.1",
-    "knex": "0.6.22"
+    "async": "~0.9.0",
+    "knex": "~0.6.22",
+    "lodash": "~2.4.1"
   },
   "devDependencies": {
     "acl": "0.4.3",
