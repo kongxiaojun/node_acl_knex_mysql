@@ -20,7 +20,7 @@ npm install acl
 npm install knex
 npm install mysql
 
-npm install acl-knex-mysql
+npm install acl_knex_mysql
 ```
 
 
